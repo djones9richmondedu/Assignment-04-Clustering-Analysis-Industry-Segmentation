@@ -1,9 +1,4 @@
-Remember to format the README per the instructions:
-
-
-README.md - Brief description including:
-
-# Assignment 4: Clustering Analysis & Industry Segmentation
+## Assignment 4: Clustering Analysis & Industry Segmentation
 
 ## Industry/Domain Relevance
 My career is in the power generation and distribution industry. 
